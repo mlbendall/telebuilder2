@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'telebuilder2/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'
